@@ -12,6 +12,7 @@
 
 ### Project overview
 
+![HR ANALYSIS](https://github.com/user-attachments/assets/a9159fea-d998-497a-8f53-d1a54ed6fa38)
 
 This project focuses on leveraging SQL, Python, and Tableau to analyze HR data, uncover actionable insights, and monitor key workforce metrics. The project involves building a data pipeline to acquire, clean, and process HR datasets, followed by exploratory data analysis (EDA) to identify trends. Finally, interactive KPI dashboards are created in Tableau to visualize and track essential workforce metrics, enabling data-driven decision-making in HR management.
 
