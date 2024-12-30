@@ -11,6 +11,7 @@
 - [Recommendations](#Recommendations)
 
 ### Project overview
+---
 
 ![HR ANALYSIS](https://github.com/user-attachments/assets/a9159fea-d998-497a-8f53-d1a54ed6fa38)
 
