@@ -147,6 +147,7 @@ attrition_rate = (attrition_count / employee_count) * 100
 active_employees = hr_data[hr_data['Attrition'] == 'No'].shape[0]
 # 5. **Average Age**
 average_age = hr_data['Age'].mean()
+
 1.# KPIs
 print("Employee Count:", employee_count)
 print("Attrition Count:", attrition_count)
@@ -194,6 +195,7 @@ plt.tight_layout(rect=[0, 0.03, 1, 0.95])
 
 # Display the plot
 plt.show()
+
 # 3. **Attrition by Gender**
 plt.figure(figsize=(8, 6))
 sns.countplot(data=hr_data, x='Gender', hue='Attrition', palette='coolwarm')
@@ -201,6 +203,7 @@ plt.title('Attrition by Gender')
 plt.xlabel('Gender')
 plt.ylabel('Count')
 plt.show()
+
 # 4. **Job Satisfaction Rating (Job Role vs Job Satisfaction)** (Boxplot)
 plt.figure(figsize=(10, 6))
 sns.boxplot(x="Job Role", y="Job Satisfaction", data=hr_data, palette="Set1")
@@ -209,6 +212,7 @@ plt.xlabel("Job Role")
 plt.ylabel("Job Satisfaction")
 plt.xticks(rotation=45)
 plt.show()
+
 # 5. **Department-wise Attrition (Pie Chart)**
 plt.figure(figsize=(8, 6))
 department_attrition = hr_data[hr_data["Attrition"] == "Yes"]['Department'].value_counts()
