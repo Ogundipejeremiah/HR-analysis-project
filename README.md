@@ -1,14 +1,14 @@
 # HR-analysis-project
 
 ## Table of contents
--[Project overview](#Project-overview)
--[Data sources](#Data-sources)
--[Tools](#Tool)
--[Data Cleaning/Preparation](#Data-Cleaning/Preparation)
--[Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
--[Data analysis](#Data-analysis)
--[Results/Findings](#Results/Findings)
--[Recommendations](#Recommendations)
+- [Project overview](#Project-overview)
+- [Data sources](#Data-sources)
+- [Tools](#Tool)
+- [Data Cleaning/Preparation](#Data-Cleaning/Preparation)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+- [Data analysis](#Data-analysis)
+- [Results/Findings](#Results/Findings)
+- [Recommendations](#Recommendations)
 
 ### Project overview
 
